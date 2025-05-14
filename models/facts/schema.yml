@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: total_reseller_sales_amount
+    description: Summarizes total reseller sales by product category
+    columns:
+      - name: ProductCategory
+        tests:
+          - not_null
+
+      - name: TotalSalesAmount
+        tests:
+          - not_null
