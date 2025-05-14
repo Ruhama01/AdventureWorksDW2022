@@ -15,5 +15,5 @@ JOIN
 JOIN
     DimProductCategory dpc ON dpsc.ProductCategoryKey = dpc.ProductCategoryKey
 GROUP BY
-    dpc.EnglishProductCategoryName;;
+    dpc.EnglishProductCategoryName;
 
