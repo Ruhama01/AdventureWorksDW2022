@@ -1,0 +1,4 @@
+CustomerKey,FirstName,LastName,EmailAddress,Gender,BirthDate
+11000,Abigail,Garcia,abigail.garcia@example.com,F,1988-07-12
+11001,James,Smith,james.smith@example.com,M,1975-11-03
+11002,Olivia,Jones,olivia.jones@example.com,F,1992-03-21

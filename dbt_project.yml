@@ -34,3 +34,15 @@ models:
       +materialized: view
     dimensions:
       +materialized: view
+seeds:
+  AdventureWorksDW2022:
+    dim_customer:
+      file: dim_customer.csv
+    dim_product:
+      file: dim_product.csv
+    dim_date:
+      file: dim_date.csv
+    dim_sales_territory:
+      file: dim_sales_territory.csv
+    dim_employee:
+      file: dim_employee.csv

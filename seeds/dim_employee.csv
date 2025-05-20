@@ -1,0 +1,4 @@
+EmployeeKey,FirstName,LastName,Title,BirthDate,Gender,DepartmentName
+1,Ken,Sánchez,Sales Representative,1976-01-29,M,Sales
+2,Terri,Duffy,Sales Manager,1971-08-01,F,Sales
+3,Roberto,Tamburello,Sales Representative,1974-11-12,M,Sales
